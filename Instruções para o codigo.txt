@@ -1,0 +1,5 @@
+O código foi executado na IDE Visual Studio Code, num sistema operacional Windows, utilizando o python 3.
+
+Para garantir que o código seja executado corretamente, é recomendado que toda a pasta que se encontra o código seja aberta na IDE a ser utilizada para testes. 
+
+Além disso, é necessário que as bibliotecas "numpy", "matplotlib" e "random" estejam devidamente instaladas e importadas no ambiente onde o código será executado.
